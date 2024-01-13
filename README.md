@@ -18,7 +18,7 @@ I am currently working as a Web Developer for [Aletech](https://aletech.co). I a
 - 🔗 [LinkedIn](https://www.linkedin.com/)
 - 🐦 [Twitter](https://twitter.com)
 
-![Thanh Do's github stats](https://github-readme-stats.vercel.app/api?username=nartc&show_icons=true)
+![Thanh Do's github stats](https://github-readme-stats.vercel.app/api?username=TxSew&show_icons=true)
 
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
